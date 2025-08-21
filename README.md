@@ -1,3 +1,3 @@
-This contents are used for teaching by me.
+This contents are used for teaching by myself.
 
 Lecturer : Sathish Sarma
