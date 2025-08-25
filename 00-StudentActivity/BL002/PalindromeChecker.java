@@ -1,3 +1,14 @@
+/**********************************************************************
+
+Program Title : Palindrome Checker Application
+FileName: "PalindromeChecker.java"
+
+Programmer : Sathish Sarma
+Contact Details : sathish.sarma@newinti.edu.my
+Date : 25 August 2025
+
+**********************************************************************/
+
 import java.util.Scanner;
 
 public class PalindromeChecker {
