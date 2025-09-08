@@ -12,16 +12,16 @@ public class OperatorPrecedenceAssociativity {
         int a = 10, b = 5, c = 2;
 		int result;
 		
-		System.out.println("This program demonstrates both operator precedence and associativity."):
+		System.out.println("This program demonstrates both operator precedence and associativity.");
         System.out.println("Initial values: a = " + a + ", b = " + b + ", c = " + c);
         System.out.println("---------------------------------------------------");
 		
-		System.out.println("This program has incomplete parts. Refer to the comments below for the instructions. The first example is provided for you."):
+		System.out.println("This program has incomplete parts. Refer to the comments below for the instructions. The first example is provided for you.");
         // ---------------- Precedence Examples ----------------
 
         // Example 1: Multiplication has higher precedence than addition.
 		// show the result of a add b multiply with c.
-        int result = a + b * c;   // evaluated as a + (b * c)
+        result = a + b * c;   // evaluated as a + (b * c)
         System.out.println("a + b * c = " + result + " (Multiplication before addition)");
 
         // Example 2: Parentheses override precedence
